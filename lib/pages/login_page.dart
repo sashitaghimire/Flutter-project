@@ -25,7 +25,7 @@ class _LoginPageState extends State<LoginPage> {
           fit: StackFit.expand,
           children: <Widget>[
             Image.asset(
-              "assets/bg.jpeg",
+              "assets/code.jpg",
               fit: BoxFit.cover,
               color: Colors.black.withOpacity(0.7),
               colorBlendMode: BlendMode.darken,
